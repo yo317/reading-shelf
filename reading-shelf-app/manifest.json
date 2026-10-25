@@ -1,0 +1,16 @@
+{
+  "name": "رفّ القراءة",
+  "short_name": "رفّ القراءة",
+  "description": "اقرأ الروايات بالإنجليزي وافهم بالعربي",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#f6f3fb",
+  "theme_color": "#6750a4",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
